@@ -1,0 +1,10 @@
+.welcome{
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+.post-container{
+    display: flex;
+    flex-direction: column-reverse;
+    
+}
